@@ -1,0 +1,1 @@
+Students Performance prediction project using machine learning algorithms with various features in the dataset. This enables to predict performance of students academically and enhance in learning and social communication of students from various regeions
